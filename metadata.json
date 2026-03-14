@@ -1,0 +1,5 @@
+{
+  "name": "Zenta CRM",
+  "description": "A modern, AI-powered CRM replica inspired by Zoho and HST design patterns, featuring dashboard analytics, lead management, deal pipelines, and Gemini-powered sales assistants.",
+  "requestFramePermissions": []
+}
